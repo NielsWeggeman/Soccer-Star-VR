@@ -50,16 +50,18 @@ spel, zou ik aanraden:
 
 *---- Groei sinds vorige opdracht ----*
 
-In het afgelopen jaar heb ik nu opgesomd ongeveer een maand gewerkt met Unity,
-bovenop de ervaring die ik al had van een paar jaar terug.
+In het afgelopen jaar heb ik in totaal ongeveer een maand gewerkt met Unity,
+bovenop de ervaring die ik al had van een paar jaar terug, de 'intern challenge'
+daarin meegenomen.
 
-Mijn belangrijkste inzichten tot dusver zijn:
+Mijn belangrijkste inzichten wbt werken met Unity tot dusver zijn:
 
+- Dat ik er met de volle 100% geniet om ermee te werken.
 - Volgende keer denk ik vooraf na over een flowchart voor de logica van de app, 
-- want ik ben nu 4 uur langer bezig geweest met herstructureren om een bug op te lossen.
-- Ik weet nu hoeveel sneller ik kan werken dmv het zoeken van een goede tutorial of de 
-  juiste comment op StackOverflow.
-- Ik focus nu op zo weinig mogelijk vertices en assets en slechts de broodnodige 
+- want ik ben nu 4 uur langer bezig geweest met herstructureren om de laatste bug te vinden.
+- Ik weet ondertussen hoeveel sneller ik kan werken en hoeveel meer ik voor elkaar krijg
+  door een goede tutorial of de juiste comment op StackOverflow te zoeken.
+- Ik focus voortaan op zo weinig mogelijk vertices en assets en slechts de broodnodige 
   berekeningen om prestaties optimaal te krijgen.
 
 Na het doen van de intern challenge besloot ik deze keer veel meer van de code zelf 
