@@ -78,7 +78,7 @@ evenals op het zelf uitvinden hoe ik een effectief level-systeem kan bouwen.
 
 Van deze uitdaging heb ik met name meer geleerd over:
 - Structureren en debuggen van code
-- Verschillende niveaus in een spel instellen
+- Verschillende levels in een spel instellen
 - Werken met het unity UI-systeem
 - Eenmalig afspelen audiobronnen instellen
 - Werken met het deeltjessysteem
