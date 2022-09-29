@@ -1,6 +1,6 @@
-# Soccer-Star-VR
+# Soccer Star VR
 
-Fit VR-game gebouwd voor SyncVR SR. Challenge
+Fit VR-game gebouwd voor SyncVR Sr. Challenge
 
 *---- Welcome to... Soccer Star VR! ----*
 
