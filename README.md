@@ -2,11 +2,13 @@
 
 Fit VR-game gebouwd voor SyncVR Sr. Challenge
 
+
 *---- Welcome to... Soccer Star VR! ----*
 
 Deze VR-voetbalgame is gebouwd voor de senior challenge van SyncVR, om mijn ervaring 
 in Unity tot dusver te laten zien. Het is een speelse en steeds uitdagender wordende game,
 die spelers uitnodigt om in een speelse setting te sporten.
+
 
 *---- Design Keuzes ----*
 
@@ -34,9 +36,11 @@ Je kunt een video-opname van het spel bekijken op https://www.youtube.com/watch?
 ![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/master/Soccer%20Star%20VR%20Main%20menu%20view.jpg)
 ![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/master/Soccer%20Star%20VR%20Game%20view.jpg)
 
+
 *---- N.B. Installatie Instructies ----*
 
 Download de 'Soccer Star VR.apk' en installeer deze op de Quest 2 om het spel te spelen.
+
 
 *---- Verbeterpunten voor het spel ---- *
 
@@ -89,6 +93,7 @@ In de toekomst zou het nuttig kunnen zijn om meer te weten te komen over:
 - Realistischere materialen en verlichting creëren in VR
 - GameObjects spawnen en vernietigen
 - Optimalisatie van ontwerp en code om de rekenbelasting te minimaliseren
+
 
 *---- IP ----*
 
