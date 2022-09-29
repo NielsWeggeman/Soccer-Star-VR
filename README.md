@@ -9,6 +9,7 @@ in Unity tot dusver te laten zien. Het is een speelse en steeds uitdagender word
 die spelers uitnodigt om in een speelse setting te sporten.
 
 *---- Design Keuzes ----*
+
 De uitdaging was om een applicatie te bouwen waarmee patienten met chronische pijn 
 of long-covid klachten verleid kunnen worden om meer te bewegen. Uit ervaring weet ik dat
 een hoop van dit soort spellen werken met het simpel maken van bepaalde bewegingen of bereiken
