@@ -1,45 +1,42 @@
 # Soccer Star VR
 
-Fit VR-game gebouwd voor SyncVR Sr. Challenge
+Fit VR-game gebouwd voor de sr. challenge
 
 
 *---- Welcome to... Soccer Star VR! ----*
 
-Deze VR-voetbalgame is gebouwd voor de senior challenge van SyncVR, om mijn ervaring 
-in Unity tot dusver te laten zien. Het is een speelse en steeds uitdagender wordende game,
-die spelers uitnodigt om in een speelse setting te sporten.
+Deze VR-voetbalgame is gebouwd om mijn ervaring in Unity tot dusver te laten zien. 
+Het is een speelse en steeds uitdagender wordende game, die spelers uitnodigt om 
+in een speelse setting te sporten.
+
+Soccer Star VR plaatst je in een professioneel voetbalstadion waar je de voetballen moet stoppen
+en de bommetjes moet ontwijken. Het spel bevat (nu) 6 levels, waarbij de ballen onder steeds 
+moeilijkere hoeken, met hogere snelheden en met meer spin worden aangeschoten.
 
 
 *---- Design Keuzes ----*
 
-De uitdaging was om een applicatie te bouwen waarmee patienten met chronische pijn 
-of long-covid klachten verleid kunnen worden om meer te bewegen. Uit ervaring weet ik dat
-een hoop van dit soort spellen werken met het simpel maken van bepaalde bewegingen of bereiken
-van bepaalde doelen. Zelf daagt mij dat totaal niet op een leuke manier uit.
+De gegeven uitdaging was om een applicatie te bouwen waarmee patienten met chronische pijn 
+of long-covid klachten uitgedaagd kunnen worden om meer te bewegen. Uit ervaring weet ik dat
+een hoop van dit soort spellen werken op basis van 'slechts' het maken van bepaalde bewegingen 
+of reiken naar bepaalde doelen. Zelf vind ik dat nog al saai, en weinig uitdaging.
 
 Vandaar dat ik ervoor heb gekozen een Wii Sports-achtig spel te maken dat de speler uitnodigt
-om te bewegen in een meer game-achtige omgeving, in plaats van droge oefeningen te doen.
+om te bewegen, door hem/haar in een meer game-achtige omgeving te zetten in plaats van het doen 
+van droge oefeningen.
 
-Soccer Star VR plaatst je in een professioneel voetbalstadion waar je de voetballen moet stoppen
-en de bommetjes moet ontwijken. De spel bevat (nu) 6 levels, waarbij de ballen onder steeds 
-moeilijkere hoeken, met hogere snelheid en met meer spin worden aangeschoten.
-
-Het begint vrij kalmpjes aan, maar de levels worden steeds uitdagender. Dit helpt de speler
+Het pel begint vrij kalmpjes aan, maar de levels worden steeds lastiger. Dit helpt de speler
 het spel leren begrijpen, maar bouwt daarmee ook rustig op, om de patiënt de tijd te geven
 te wennen aan de exercitie. De speler wordt 'beloond' door het overzicht met de gescoorde punten
-en krijgt ook feedback d.m.v. de geluiden.
+aan het uiteinde van het stadium en krijgt ook feedback d.m.v. de geluiden.
 
 De game is ontworpen om te worden gespeeld op de Oculus Quest 2
 
-Je kunt een video-opname van het spel bekijken op https://www.youtube.com/watch?v=Nn5rcXA3vUY&ab_channel=NielsWeggeman
+Bekijk zeker ook even een opname van het spel op https://www.youtube.com/watch?v=Nn5rcXA3vUY&ab_channel=NielsWeggeman
+of download de 'Soccer Star VR.apk' en installeer deze op de Quest 2 om het spel te spelen.
 
 ![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/main/Soccer%20Star%20VR%20Main%20menu%20view.jpg)
 ![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/main/Soccer%20Star%20VR%20Game%20view.jpg)
-
-
-*---- N.B. Installatie Instructies ----*
-
-Download de 'Soccer Star VR.apk' en installeer deze op de Quest 2 om het spel te spelen.
 
 
 *---- Verbeterpunten voor het spel ---- *
