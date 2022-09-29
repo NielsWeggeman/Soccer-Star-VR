@@ -33,8 +33,8 @@ De game is ontworpen om te worden gespeeld op Oculus Quest 2
 
 Je kunt een video-opname van het spel bekijken op https://www.youtube.com/watch?v=Nn5rcXA3vUY&ab_channel=NielsWeggeman
 
-![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/master/Soccer%20Star%20VR%20Main%20menu%20view.jpg)
-![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/master/Soccer%20Star%20VR%20Game%20view.jpg)
+![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/main/Soccer%20Star%20VR%20Main%20menu%20view.jpg)
+![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/main/Soccer%20Star%20VR%20Game%20view.jpg)
 
 
 *---- N.B. Installatie Instructies ----*
