@@ -1,90 +1,106 @@
 # Soccer-Star-VR
 
-Fit VR Game built for Senior Challenge
-
-*---- Difference between now and previous assignment ----*
-
-Building this game I decided to try and write more of the code myself,
-instead of leaning on tutorials. 95% of the code in this game was written
-myself, borrowing only small tricks from some tutorials and articles.
-
-This makes the code slightly messy and inefficient, although I tried to clean
-it up as much as I could. Next time I would draw up a logic flowchart of the
-game before building.
-
-I'm proud in particular of the algorithm that determines how to launch the
-ball so that it always lands close to the player (can be seen in the kickBall.cs
-file), as well as of figuring out the level system and UI set up all by myself.
-
-In particular, this challenge helped me learn more about:
-- Structuring & debugging code
-- Setting up different levels in a game
-- Working with the unity UI system
-- Setting up play-once audiosources
-- Working with the particle system
-- Working with lighting & flares
-
-In the future, it could be useful for me to learn more about:
-- Building more intuitive UI and control experiences
-- Creating good instructional experiences
-- Working with human avatars for instructions
-- Setting up multiplayer interactions in VR
-- Creating more realistic materials & lighting in VR
-- Spawning and destroying gameObjects
-- Optimising design and code to minimise computational load
-
+Fit VR-game gebouwd voor SyncVR SR. Challenge
 
 *---- Welcome to... Soccer Star VR! ----*
 
-This VR Soccer game was built for the SyncVR senior challenge, to showcase
-my experience in Unity thusfar. It is a fun and increasingly difficult game
-that invites players to work-out in a playful setting.
+Deze VR-voetbalgame is gebouwd voor de senior challenge van SyncVR, om mijn ervaring 
+in Unity tot dusver te laten zien. Het is een speelse en steeds uitdagender wordende game,
+die spelers uitnodigt om in een speelse setting te sporten.
 
-The challenge was to build an application that lets people exercise by
-stretching out their arms and by avoiding objects. After having played several
-apps that include this concept, I felt that it would likely be more rewarding
-for players to do these kind of exercises in a more gamelike experience.
-Therefore I decided to create a Wii Sports like game that invites the player
-to move, instead of doing dry exercises.
+*---- Design Keuzes ----*
+De uitdaging was om een applicatie te bouwen waarmee patienten met chronische pijn 
+of long-covid klachten verleid kunnen worden om meer te bewegen. Uit ervaring weet ik dat
+een hoop van dit soort spellen werken met het simpel maken van bepaalde bewegingen of bereiken
+van bepaalde doelen. Zelf daagt mij dat totaal niet op een leuke manier uit.
 
-Soccer Star VR puts you in a professional soccer stadium where you have to
-stop the soccer balls and dodge the bombs. The challenge exists out several
-levels, where the balls get shot under more and more difficult angles, with
-higher speed and with more spin.
+Vandaar dat ik ervoor heb gekozen een Wii Sports-achtig spel te maken dat de speler uitnodigt
+om te bewegen in een meer game-achtige omgeving, in plaats van droge oefeningen te doen.
 
-N.B. !! The game is designed to be played on Oculus Quest 2!!
+Soccer Star VR plaatst je in een professioneel voetbalstadion waar je de voetballen moet stoppen
+en de bommetjes moet ontwijken. De spel bevat (nu) 6 levels, waarbij de ballen onder steeds 
+moeilijkere hoeken, met hogere snelheid en met meer spin worden aangeschoten.
 
-You can watch a video recording of the game on https://www.youtube.com/watch?v=Nn5rcXA3vUY&ab_channel=NielsWeggeman
+Het begint vrij kalmpjes aan, maar de levels worden steeds uitdagender. Dit helpt de speler
+het spel leren begrijpen, maar bouwt daarmee ook rustig op, om de patiënt de tijd te geven
+te wennen aan de exercitie. De speler wordt 'beloond' door het overzicht met de gescoorde punten
+en krijgt ook feedback d.m.v. de geluiden.
+
+De game is ontworpen om te worden gespeeld op Oculus Quest 2
+
+Je kunt een video-opname van het spel bekijken op https://www.youtube.com/watch?v=Nn5rcXA3vUY&ab_channel=NielsWeggeman
 
 ![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/master/Soccer%20Star%20VR%20Main%20menu%20view.jpg)
 ![alt text](https://github.com/NielsWeggeman/Soccer-Star-VR/blob/master/Soccer%20Star%20VR%20Game%20view.jpg)
 
-*---- N.B. Launch Instructions ----*
+*---- N.B. Installatie Instructies ----*
 
-Download the 'Soccer Star VR.apk' and install it on Quest 2 to play the game.
+Download de 'Soccer Star VR.apk' en installeer deze op de Quest 2 om het spel te spelen.
+
+*---- Verbeterpunten voor het spel ---- *
+
+Deze app is binnen twee dagen gebouwd. Als ik hier meer tijd aan zou besteden
+spel, zou ik aanraden:
+
+- Meer niveaus aan het spel toevoegen.
+- Meer voetbalmodellen aan het spel toevoegen.
 
 
-*----Further improvements---- *
+*---- Groei sinds vorige opdracht ----*
 
-This app was built within two days time. If I would spend more time on this
-game, I would recommend:
+In het afgelopen jaar heb ik nu opgesomd ongeveer een maand gewerkt met Unity,
+bovenop de ervaring die ik al had van een paar jaar terug.
 
-- Adding more levels to the game.
-- Adding more Soccer Ball models to the game.
+Mijn belangrijkste inzichten tot dusver zijn:
 
+- Volgende keer denk ik vooraf na over een flowchart voor de logica van de app, 
+- want ik ben nu 4 uur langer bezig geweest met herstructureren om een bug op te lossen.
+- Ik weet nu hoeveel sneller ik kan werken dmv het zoeken van een goede tutorial of de 
+  juiste comment op StackOverflow.
+- Ik focus nu op zo weinig mogelijk vertices en assets en slechts de broodnodige 
+  berekeningen om prestaties optimaal te krijgen.
+
+Na het doen van de intern challenge besloot ik deze keer veel meer van de code zelf 
+te schrijven, in plaats van te leunen op tutorials. 95% van de code in dit spel is 
+zelf geschreven, waarbij ik slechts kleine trucjes leen uit tutorials en artikelen.
+
+Dit maakt de code iets rommeliger dan bij de intern challenge, hoewel ik de code waar
+mogelijk heb opgeschoond. De volgende keer zou ik eerst een logic flowchart opstellen 
+van het spel opstellen voordat ik ga bouwen.
+
+Ik ben vooral trots op het algoritme dat bepaalt hoe de bal zo geschoten kan worden, 
+dat deze altijd dicht bij de speler landt (te zien in de kickBall.cs bestand), 
+evenals op het zelf uitvinden hoe ik een effectief level-systeem kan bouwen.
+
+Van deze uitdaging heb ik met name meer geleerd over:
+- Structureren en debuggen van code
+- Verschillende niveaus in een spel instellen
+- Werken met het unity UI-systeem
+- Eenmalig afspelen audiobronnen instellen
+- Werken met het deeltjessysteem
+- Werken met verlichting & fakkels
+
+In de toekomst zou het nuttig kunnen zijn om meer te weten te komen over:
+- Meer intuïtieve gebruikersinterface en controle-ervaringen bouwen
+- Goede leerervaringen creëren
+- Werken met menselijke avatars voor instructies
+- Multiplayer-interacties opzetten in VR
+- Realistischere materialen en verlichting creëren in VR
+- GameObjects spawnen en vernietigen
+- Optimalisatie van ontwerp en code om de rekenbelasting te minimaliseren
 
 *---- IP ----*
 
-I used free assets audio samples to give the game an entertaining, gamelike vibe.
-This project would not have been possible without the audio from:
-- 'ROYALTY FREE Breaking News Music / News Intro Music Royalty Free / News Opener Music Royalty Free' from 'Music for Video Library'
-  on https://www.youtube.com/watch?v=y1clZNYIl4Y&t=2s&ab_channel=MusicforVideoLibrary
-- 'Royalty Free Sports Music | Sports Background Music' by 'Alex Grohl - Background Rock Music'
-  on https://www.youtube.com/watch?v=nPW3INoPK8c&ab_channel=AlexGrohl-BackgroundRockMusic
+Ik heb gratis audiosamples assets gebruikt om de game een energieke, game-achtige sfeer te geven.
+Dit project zou niet mogelijk zijn geweest zonder de audio van:
+- 'ROYALTY FREE Breaking News Music / News Intro Music Royalty Free / News Opener Music Royalty Free' van 'Music for Video Library'
+  op https://www.youtube.com/watch?v=y1clZNYIl4Y&t=2s&ab_channel=MusicforVideoLibrary
+- 'Royalty Free Sports Music | Sports Background Music' door 'Alex Grohl - Background Rock Music'
+  op https://www.youtube.com/watch?v=nPW3INoPK8c&ab_channel=AlexGrohl-BackgroundRockMusic
 
-And the following free assets:
-- 'Arena das Dunas Free 3D model' by 'marco-aurelio-o-m' on CGTrader https://www.cgtrader.com/free-3d-models/architectural/engineering/arena-das-dunas
-- 'Free Crowd Cheering Sounds' by 'Gregor Quendel' on the Unity Asset Store
-- 'Outdoor Ground Textures' by 'A dog's life software' on the Unity Asset Store
-- 'SRP Lens Flare (for URP)' by 'ALIyerEdon' on the Unity Asset Store
-- 'Procedural fire' by 'HOVL Studio' on the Unity Asset Store
+En de volgende gratis assets:
+- 'Arena das Dunas Free 3D model' door 'marco-aurelio-o-m' op CGTrader https://www.cgtrader.com/free-3d-models/architectural/engineering/arena-das-dunas
+- 'Free Crowd Cheering Sounds' door 'Gregor Quendel' op de Unity Asset Store
+- 'Outdoor Ground Textures' door 'A dog's life software' op de Unity Asset Store
+- 'SRP Lens Flare (for URP)' door 'ALIyerEdon' op de Unity Asset Store
+- 'Procedural fire' door 'HOVL Studio' op de Unity Asset Store
