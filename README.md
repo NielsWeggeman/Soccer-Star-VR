@@ -82,7 +82,7 @@ Van deze uitdaging heb ik met name meer geleerd over:
 - Werken met het unity UI-systeem
 - Eenmalig afspelen audiobronnen instellen
 - Werken met het deeltjessysteem
-- Werken met verlichting & fakkels
+- Werken met verlichting & 'flares'
 
 In de toekomst zou het nuttig kunnen zijn om meer te weten te komen over:
 - Meer intuïtieve gebruikersinterface en controle-ervaringen bouwen
