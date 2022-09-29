@@ -29,7 +29,7 @@ het spel leren begrijpen, maar bouwt daarmee ook rustig op, om de patiënt de ti
 te wennen aan de exercitie. De speler wordt 'beloond' door het overzicht met de gescoorde punten
 en krijgt ook feedback d.m.v. de geluiden.
 
-De game is ontworpen om te worden gespeeld op Oculus Quest 2
+De game is ontworpen om te worden gespeeld op de Oculus Quest 2
 
 Je kunt een video-opname van het spel bekijken op https://www.youtube.com/watch?v=Nn5rcXA3vUY&ab_channel=NielsWeggeman
 
